@@ -1,0 +1,16 @@
+G:\常用源码\Session\Test\Test\bin\Test.dll
+G:\常用源码\Session\Test\Test\bin\Test.pdb
+G:\常用源码\Session\Test\Test\obj\Debug\Test.dll
+G:\常用源码\Session\Test\Test\obj\Debug\Test.pdb
+G:\常用源码\Session\Test\Test\bin\SessionRedis.dll
+G:\常用源码\Session\Test\Test\bin\SessionRedis.pdb
+G:\常用源码\Session\Test\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+G:\常用源码\Session\Test\Test\bin\ServiceStack.Interfaces.dll
+G:\常用源码\Session\Test\Test\bin\ServiceStack.Redis.dll
+G:\常用源码\Session\Test\Test\bin\Newtonsoft.Json.dll
+G:\常用源码\Session\Test\Test\bin\ServiceStack.Common.dll
+G:\常用源码\Session\Test\Test\bin\ServiceStack.Text.dll
+D:\repository\git-res\SessionRedis\Test\Test\obj\Debug\Test.csprojAssemblyReference.cache
+D:\repository\git-res\SessionRedis\Test\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+D:\repository\git-res\SessionRedis\Test\Test\obj\Debug\Test.dll
+D:\repository\git-res\SessionRedis\Test\Test\obj\Debug\Test.pdb

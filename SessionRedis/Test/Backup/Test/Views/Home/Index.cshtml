@@ -1,0 +1,36 @@
+﻿@model Test.Controllers.test
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <title>Index</title>
+</head>
+<body>
+    <div>
+       <H1>  登录: 
+       @if (this.Context.SessionExt().IsLogin())
+       {
+            @Model.name
+       }
+       else
+       {
+               @("未登录")
+       }
+       <H1>
+
+       @using (Html.BeginForm("Login", "Home"))
+       { 
+       
+           @("登录名： ")
+           @Html.TextBox("name")
+
+            <input type="submit" />
+       
+       }
+
+       <H2>当前用户在线：@(new SessionRedis.SessionManager().Count())
+
+    </div>
+</body>
+</html>

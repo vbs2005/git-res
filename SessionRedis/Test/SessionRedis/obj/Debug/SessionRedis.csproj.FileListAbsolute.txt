@@ -1,0 +1,8 @@
+G:\常用源码\Session\Test\SessionRedis\bin\Debug\SessionRedis.dll
+G:\常用源码\Session\Test\SessionRedis\bin\Debug\SessionRedis.pdb
+G:\常用源码\Session\Test\SessionRedis\obj\Debug\SessionRedis.dll
+G:\常用源码\Session\Test\SessionRedis\obj\Debug\SessionRedis.pdb
+D:\repository\git-res\SessionRedis\Test\SessionRedis\obj\Debug\SessionRedis.csprojAssemblyReference.cache
+D:\repository\git-res\SessionRedis\Test\SessionRedis\obj\Debug\SessionRedis.csproj.CoreCompileInputs.cache
+D:\repository\git-res\SessionRedis\Test\SessionRedis\obj\Debug\SessionRedis.dll
+D:\repository\git-res\SessionRedis\Test\SessionRedis\obj\Debug\SessionRedis.pdb
